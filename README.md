@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Henok Gizaw
 - 👀 I’m interested in developing embedded systems and All os inclusive softwares
-- 🌱 I’m currently learning Electrical and Computer engineering with focus on computer engieneering
-- 💞️ I’m looking to collaborate on ... open source projects
-- 📫 How to reach me ... Looking to do project with me contact me with via Telegram @henokastr and Linkedin Henok Gizaw Nigatu
+- 🌱 I’m currently learning Electrical and Computer engineering with focus on Embedded Systems, Robotics, AI , App development and computer engieneering
+- 💞️ I’m looking to collaborate on ... open source projects and impactful projects 
+- 📫 How to reach me ... Looking to do project with me contact me, with via Telegram @henokastr and Linkedin Henok Gizaw Nigatu
 - 😄 Pronouns: He / She
 - ⚡ Fun fact: ...
 
