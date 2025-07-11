@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henok Gizaw
+- 👋 Hi, I’m Henok Gizaw Nigatu
 - 👀 I’m interested in developing embedded systems and All os inclusive softwares
 - 🌱 I’m currently learning Electrical and Computer engineering with focus on Embedded Systems, Robotics, AI , App development and computer engieneering
 - 💞️ I’m looking to collaborate on ... open source projects and impactful projects 
