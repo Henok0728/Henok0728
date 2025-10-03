@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Henok Gizaw Nigatu<br>- 👀 I’m interested in embedded systems and backend development<br>- 🌱 I’m currently learning Electrical and Computer engineering with focus on Embedded Systems, Robotics, AI , App development and computer engieneering<br>- 💞️ I’m looking to collaborate on ... open source projects and  impactful projects <br>
+- 👋 Hi, I’m Henok Gizaw Nigatu<br>- 👀 I’m interested in embedded systems and backend development<br>- 🌱 I’m currently learning Electrical and Computer engineering with focus on Embedded Systems, Robotics, AI , App development and computer engieneering<br>- 💞️ I’m looking to collaborate on ... open source projects and  impactful projects <br>❤️ Hobbies playing football, chess , embedded engineering and extras.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henok-gizaw-nigatu-629a93338/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BT7wfLF1cQB6sWSiePLrBHg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henokgizaw06@gmail.com) 
